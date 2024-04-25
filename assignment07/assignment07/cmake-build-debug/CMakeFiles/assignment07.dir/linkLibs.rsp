@@ -1,0 +1,1 @@
+  -LC:/Users/VINCEN~1/DOWNLO~1/ASE6AC~1/ASSIGN~1/ASSIGN~1/CS4722~1  -LC:/cs4722lib  -lcs4722 -lglfw3 -lopengl32 -lglu32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
